@@ -116,6 +116,10 @@
   </a>
 </p>
 
+<p align="center">
+  📧 shahadathossain31500@gmail.com
+</p>
+
 ---
 
 <!-- ================= FOOTER ================= -->
