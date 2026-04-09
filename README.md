@@ -11,12 +11,15 @@
   Crafting clean, scalable, and user-focused web experiences 🚀
 </p>
 
-<!-- ================= VIEWS + TROPHIES ================= -->
+<!-- ================= VIEWS ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahadat-hossain99&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
+<!-- ================= BADGES ================= -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahadat-hossain99&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
+  <img src="https://komarev.com/ghpvc/?username=shahadat-hossain99&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/shahadat-hossain99?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/shahadat-hossain99?label=Stars&style=flat&color=0e75b6" />
 </p>
 
 ---
