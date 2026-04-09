@@ -12,9 +12,9 @@
 </p>
 
 <!-- ================= VIEWS ================= -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahadat-hossain99&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
+</p> -->
 <!-- ================= BADGES ================= -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahadat-hossain99&label=Profile+Views&color=0e75b6&style=flat" />
