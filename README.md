@@ -16,7 +16,7 @@
   <img src="https://komarev.com/ghpvc/?username=shahadat-hossain99&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahadat-hossain99&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shahadat-hossain99&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,git,github,vscode" />
 </p>
 
 ---
@@ -72,11 +72,11 @@
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahadat-hossain99&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-hossain99&layout=compact&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahadat-hossain99&show_icons=true&theme=github_dark&cache_seconds=86400&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahadat-hossain99&layout=compact&theme=github_dark&cache_seconds=86400&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahadat-hossain99&theme=github-dark" />
+  <img src="https://streak-stats.demolab.com?user=shahadat-hossain99&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
