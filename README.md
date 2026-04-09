@@ -1,3 +1,10 @@
+
+<!-- ================= BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Md.%20Shahadat%20Hossain&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20Specialist&descAlignY=58&descColor=8b949e" width="100%" />
+</p>
+
+
 <!-- ================= HEADER ================= -->
 <h1 align="center">Md. Shahadat Hossain</h1>
 
@@ -72,7 +79,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/shahadat-hossain99/shahadat-hossain99/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/shahadat-hossain99/shahadat-hossain99/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
