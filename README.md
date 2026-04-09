@@ -26,11 +26,10 @@
 
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
-
 - 💻 Frontend Developer focused on **modern UI & performance**
 - ⚛️ Working with **React, Tailwind, and REST APIs**
-- 🌱 Currently learning **TypeScript & Next.js**
-- 🔭 Currently building **real-world full-stack projects**
+- 🌱 Currently learning **React & Next.js**
+- 🔭 Currently building **real-world frontend projects**
 - 🎯 Goal: Become a **Software Engineer (Global Level)**
 - 📍 Based in **Bangladesh**
 
