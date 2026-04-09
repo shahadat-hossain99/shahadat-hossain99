@@ -53,7 +53,7 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
 
 - 🔗 [Live Demo](https://book-vibe-platform.netlify.app)
 - 💻 [Source Code](https://github.com/shahadat-hossain99/book-vibe)
