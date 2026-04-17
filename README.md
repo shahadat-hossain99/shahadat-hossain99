@@ -47,6 +47,19 @@
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Work
 
+### 🤝 KeenKeeper
+> A personal CRM dashboard to track, nurture, and manage meaningful friendships with a clean modern UI.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?style=flat&logoColor=white)
+
+- 🔗 [Live Demo](https://a07-keen-keeper-nine.vercel.app)
+- 💻 [Source Code](https://github.com/shahadat-hossain99/a07-keen-keeper)
+
+---
+
 ### 📚 BookVibe
 > A modern book tracking platform to organize and manage reading efficiently with a clean UI.
 
