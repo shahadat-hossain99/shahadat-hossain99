@@ -26,14 +26,22 @@
 
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
-- 💻 MERN Stack Developer focused on **modern UI & performance**
-- ⚛️ Working with **React, Next js, and REST APIs**
-- 🌱 Currently learning **React & Next.js**
-- 🔭 Currently building **real-world frontend projects**
-- 🎯 Goal: Become a **Software Engineer (Global Level)**
-- 📍 Based in **Bangladesh**
+I'm a MERN Stack Developer focused on building modern, high-performance user interfaces. I enjoy turning ideas into clean, functional web experiences using React, Next.js, and REST APIs. My goal is to grow into a Software Engineer at the global level, one project at a time.
+📍 Based in **Bangladesh**
 
----
+<!-- ================= CURRENT ACTIVITIES ================= -->
+## 🔭 Currently Working On
+- 🌱 Learning **React & Next.js** in depth
+- 🚀 Building **real-world frontend projects**
+- 🎯 Working toward becoming a **Software Engineer (Global Level)**
+
+<!-- ================= CONTACT ================= -->
+## 📫 Connect With Me
+- 📧 Email: shahadathossain31500@gmail.com
+- 💼 LinkedIn: [www.linkedin.com/in/md-shahadat-hossain-coder]
+- 🌐 Portfolio: [https://shahadat-portfolio-999.vercel.app/]
+
+  ---
 
 <!-- ================= SKILLS ================= -->
 ## 🛠️ Tech Stack
