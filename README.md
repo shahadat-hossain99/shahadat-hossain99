@@ -26,8 +26,8 @@
 
 <!-- ================= ABOUT ================= -->
 ## 👨‍💻 About Me
-- 💻 Frontend Developer focused on **modern UI & performance**
-- ⚛️ Working with **React, Tailwind, and REST APIs**
+- 💻 MERN Stack Developer focused on **modern UI & performance**
+- ⚛️ Working with **React, Next js, and REST APIs**
 - 🌱 Currently learning **React & Next.js**
 - 🔭 Currently building **real-world frontend projects**
 - 🎯 Goal: Become a **Software Engineer (Global Level)**
