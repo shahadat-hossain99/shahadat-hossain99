@@ -59,7 +59,7 @@ A blood donation platform connecting donors and recipients, featuring role-based
 ![BetterAuth](https://img.shields.io/badge/BetterAuth-18181B?style=flat&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
-* 🔗 [Live Demo](#)
+* 🔗 [Live Demo](https://bloodsync-every-drop-counts.vercel.app)
 * 💻 [Source Code](https://github.com/shahadat-hossain99/bloodsync-client)
 
   ---
@@ -67,7 +67,15 @@ A blood donation platform connecting donors and recipients, featuring role-based
 ### 📚 StudyNook
 A library study room booking application with conflict detection, ownership-based controls, and smooth scroll-driven UI.
 
-* 🔗 [Live Demo](#)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-18181B?style=flat&logoColor=white)
+
+
+* 🔗 [Live Demo](https://studynook-frontend-go-beyound.vercel.app)
 * 💻 [Source Code](https://github.com/shahadat-hossain99/studynook-frontend)
 
   ---
