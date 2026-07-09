@@ -38,8 +38,8 @@ I'm a MERN Stack Developer focused on building modern, high-performance user int
 <!-- ================= CONTACT ================= -->
 ## 📫 Connect With Me
 - 📧 Email: shahadathossain31500@gmail.com
-- 💼 LinkedIn: [www.linkedin.com/in/md-shahadat-hossain-coder]
-- 🌐 Portfolio: [https://shahadat-portfolio-999.vercel.app/]
+- 💼 LinkedIn: www.linkedin.com/in/md-shahadat-hossain-coder
+- 🌐 Portfolio: https://shahadat-portfolio-999.vercel.app/
 
   ---
 
