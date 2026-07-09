@@ -5,7 +5,7 @@
 
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Frontend+Developer;React+Specialist;Building+Clean+UI;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Developer;React+Specialist;Building+Clean+UI;Always+Learning&center=true&width=500&height=45">
 </p>
 <p align="center">
   Crafting clean, scalable, and user-focused web experiences 🚀
