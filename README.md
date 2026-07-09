@@ -47,6 +47,31 @@
 <!-- ================= PROJECTS ================= -->
 ## 🚀 Featured Work
 
+---
+### 🩸 BloodSync
+A blood donation platform connecting donors and recipients, featuring role-based dashboards, real-time analytics, and a custom notification system.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HeroUI](https://img.shields.io/badge/HeroUI-000000?style=flat&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![BetterAuth](https://img.shields.io/badge/BetterAuth-18181B?style=flat&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
+
+* 🔗 [Live Demo](#)
+* 💻 [Source Code](https://github.com/shahadat-hossain99/bloodsync-client)
+
+  ---
+
+### 📚 StudyNook
+A library study room booking application with conflict detection, ownership-based controls, and smooth scroll-driven UI.
+
+* 🔗 [Live Demo](#)
+* 💻 [Source Code](https://github.com/shahadat-hossain99/studynook-frontend)
+
+  ---
+
 ### 🤝 KeenKeeper
 > A personal CRM dashboard to track, nurture, and manage meaningful friendships with a clean modern UI.
 
@@ -60,28 +85,9 @@
 
 ---
 
-### 📚 BookVibe
-> A modern book tracking platform to organize and manage reading efficiently with a clean UI.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 
-- 🔗 [Live Demo](https://book-vibe-platform.netlify.app)
-- 💻 [Source Code](https://github.com/shahadat-hossain99/book-vibe)
 
----
-
-### 🧰 DigiTools
-> A premium digital tools hub with responsive design and multiple service integration.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-- 🔗 [Live Demo](https://digitools-hub.netlify.app)
-- 💻 [Source Code](https://github.com/shahadat-hossain99/A06-digiTools)
-
----
 
 <!-- ================= STATS ================= -->
 ## 📊 GitHub Insights
